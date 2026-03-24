@@ -2460,3 +2460,20 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=fa5edc251d0c8749211dac53aca
 https://suba.f2vip.net/api/v1/client/subscribe?token=90aa4389cca874944e75f4e497b541e3	http_403
 https://suba.f2vip.net/api/v1/client/subscribe?token=425f5d422fe5cf889aaf5f90dd9a695a	http_403
 https://suba.f2vip.net/api/v1/client/subscribe?token=d12add60f0b2386c5af02b06a1d38658	http_403
+
+=== 2026-03-25 04:53:38 - 失效订阅 (12 个) ===
+https://www.applnn.com/42436.html	http_403
+https://www.applnn.com/46619.html	http_403
+https://www.applnn.com/42656.html	http_403
+https://www.applnn.com/46734.html	http_403
+https://v2rayse.com/fs/public/20260324/7uhr3au.txt	request_failed
+https://baipiaoyun-oss.freeloadcloud.eu/api/v1/client/subscribe?token=98e3ae2cb54154b63d7360c2a35e1a0a	http_404
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21Hf=-02jo4R%21F~bg%2Foo8~RgV~oVg0b0%2FFbbYb~F	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%29o%213%29H=cJJ0v%3A%2F%2FPo%29HLinHtVYdj1	request_failed
+https://raw.githubusercontent.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs/main/sub/United%20States/config.txt	http_404
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess	http_404
+http://guardnet.ir/f/9315216ac21b	request_failed
+https://free-ss.site	http_429
+
+=== 2026-03-25 04:54:02 - 失效订阅 (1 个) ===
+https://onlysub.mjurl.com/api/v1/client/subscribe?token=67eee7e71d16ac474b4c5d7d8dacf209	http_403
