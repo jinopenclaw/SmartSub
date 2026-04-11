@@ -3395,3 +3395,10 @@ https://suba.f2vip.net/api/v1/client/subscribe?token=a44be8ec598fcc90f4846884de1
 https://suba.f2vip.net/api/v1/client/subscribe?token=fbc847a512cba3ce604819abf1f75e69	request_failed
 https://suba.f2vip.net/api/v1/client/subscribe?token=236ea8f16f511b803abf6d368ae6114f	request_failed
 https://suba.f2vip.net/api/v1/client/subscribe?token=f6317f324e581abdd5f46e5f619c44c1	request_failed
+
+=== 2026-04-12 04:21:07 - 失效订阅 (5 个) ===
+https://www.applnn.com/44874.html	http_403
+https://api.14kbuy.com/s/99af57b3736adc9aaf47528946f4759a	http_403
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%29F=tqq1MrAA1%28%28%28V1qVtVr	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21iVx=	request_failed
+https://github.com/free18/v2ray/blob/5adfd6c5/README.md?plain=1#L33-L33	http_429
