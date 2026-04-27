@@ -4020,3 +4020,18 @@ https://punkpaste.ir/f/Psiphon-v-453-Spotif-ua79uf	request_failed
 https://api.efanyunapi.com/clash/480250/UISHzkWIUv	http_500
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=80f76b9b0a92825e9aad9c8d2acb5bac	http_403
 https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=cbeb3650ed00be4c4b892e23d6636aab	http_403
+
+=== 2026-04-28 04:52:19 - 失效订阅 (10 个) ===
+https://u1166.com/	http_404
+https://jsjc.cfd/api/v1/client/subscribe?token=c6589ad8d2d14722608e917144b6b46f	http_403
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=677ac2ff0927101cf21e1d302f636a86	http_403
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%29bL3=h	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?-N-1=8	request_failed
+https://guardnet.ir/f/b095da7278f0	request_failed
+https://guardnet.ir/f/957631d1c808	request_failed
+https://guardnet.ir/f/c87c49a0743b	request_failed
+http://188.213.65.54/	request_failed
+https://eitaa.com/Zaahra_storre	request_failed
+
+=== 2026-04-28 04:52:51 - 失效订阅 (1 个) ===
+https://47.242.128.61:5000/api/v1/client/subscribe?token=411f394bb92db6ce4e26b9af03805f9f	http_403
