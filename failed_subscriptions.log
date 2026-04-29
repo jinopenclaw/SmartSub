@@ -4144,3 +4144,29 @@ https://vortex12.qjty.buzz/api/v2/user/token/7041431d14ad83ef71e49dc777b2c5c6	re
 https://steel68.qjty.buzz/api/v2/user/token/949a9f99a4d8b4a7432ae040d5b8955d	request_failed
 https://packet32.qjty.buzz/api/v2/user/token/ff1679f7a830ab760db281c5c6289938	request_failed
 https://msk.vless-balancer.ru/sub/dXNlcl82Nzg4MzMxMjQ5LDE3Njk1MzUzMTkBqGm3A1STd#Subscription	request_failed
+
+=== 2026-04-30 04:51:53 - 失效订阅 (20 个) ===
+https://m7tez.no-mad-sub.one/link/Yfiwm0iY2HMwH4Gf?clash=3	http_404
+https://139.196.241.76:18181/api/v1/client/subscribe?token=fbc9d4276df2dc1150e7e35f31565373	http_403
+http://www.redux.js.org/	request_failed
+http://91.106.67.85/	request_failed
+http://94.182.192.170/	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%28Gy=L	request_failed
+https://searchresultsworld.com/sr/754870121/SAFEFRAME.html?%21Unme=XZhFoKqhi%3AcXui5K%7CS9Xh%3ATyt_%21W_W%21%2A_WB2	request_failed
+http://radar.chabokan.net/	request_failed
+http://46.100.55.232/	request_failed
+http://2.181.234.140/	request_failed
+http://93.118.164.193/	request_failed
+http://94.183.24.50/	request_failed
+http://94.183.127.163/	request_failed
+http://5.202.171.82/	request_failed
+http://77.238.123.238/	request_failed
+http://217.218.127.127/	request_failed
+http://89.46.61.219/	request_failed
+http://81.91.139.18/	request_failed
+https://pastehub.ir/get/file-601660-3166819376	request_failed
+https://punkpaste.ir/f/20260429-GxFzURMqzhU-1aai0z	request_failed
+
+=== 2026-04-30 04:52:24 - 失效订阅 (2 个) ===
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=1d12dbff2f2bdd68b01518f3c2c94d55	http_403
+https://msub.xn--m7r52rosihxm.com/api/v1/client/subscribe?token=e1e00c5784df91d18ef4c3c58ec07305	http_403
