@@ -96,6 +96,8 @@ clash订阅:
 - https://v2rayse.com/fs/public/20260430/free-node-share-2000.yaml
 - https://v2rayse.com/fs/public/20260501/free-node-share-0800.yaml
 - https://v2rayse.com/fs/public/20260501/free-node-share-2000.yaml
+- https://v2rayse.com/fs/public/20260502/free-node-share-0800.yaml
+- https://v2rayse.com/fs/public/20260502/free-node-share-2000.yaml
 - https://www.woggdingyueyuming.top/link/a8vapt7YVHp1xoo2?clash=1
 - https://x.v50.lat/view.php?id=24c15e7225509062
 - https://x.v50.lat/view.php?id=7463115c116ccf84
@@ -109,6 +111,7 @@ clash订阅:
 v2订阅:
 - http://154.17.23.118:3385/api/v1/client/subscribe?token=095865abedb7c19f51745bfc28fa89d8
 - http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=087bba036e4c68b3454c401df6c89436
+- http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=2a71ce13dd57f266539338631e9df070
 - http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=327f1e607186b8565873de080825a891
 - http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=3bcd4f89e41291e9d93b9e76cf254152
 - http://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=3e7e55c49c0645a27628e15c2cfb7992
@@ -153,7 +156,6 @@ v2订阅:
 - https://cf.usb.200456.xyz/sub?token=testv200ddbot
 - https://dad.xiaobaivpn.cyou/api/v1/client/subscribe?token=f83c76fd1de3f536d9b75b320f03cbce
 - https://dxheua.dhkvfug.cn/mdet/wdfs/heuy/?token=2308ef4688990d7b86a90c77ca9c671c
-- https://dxheua.dhkvfug.cn/mdet/wdfs/heuy/?token=616a1e7a2bc08f06562ec84a89b2900e
 - https://dxheua.dhkvfug.cn/mdet/wdfs/heuy/?token=e2ffc5f114708abb02c865928525374d
 - https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=6656f78f1929b7babd1e100a511a21dd
 - https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=eeb0dcd3ad557c8b7a4e70562017ba46
@@ -221,7 +223,6 @@ v2订阅:
 - https://onlysub.mjurl.com/api/v1/client/subscribe?token=aa2703c5c37ef705eb64f8909d216435
 - https://onlysub.mjurl.com/api/v1/client/subscribe?token=d4dc7b822690cb9a7b5144e5a45baa4e
 - https://onlysub.mjurl.com/api/v1/client/subscribe?token=e960f34012590c8fd184e9277c112403
-- https://popcornlab.de/api/v1/miaomiao?OuO=0eae8121bdf685aa47a2015e13af3701
 - https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/HighSpeed.txt
 - https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet_iOS.txt
 - https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt
@@ -280,7 +281,6 @@ v2订阅:
 - https://raw.githubusercontent.com/yaney01/Yaney01/main/temporary
 - https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link
 - https://raw.githubusercontent.com/zhlx2835/freefq/main/v2
-- https://raw.githubusercontent.com/zjfb/SubCrawler/main/sub/share/all
 - https://raw.githubusercontent.com/zjr13808836946/zjr_clash/main/V2_SSR_M
 - https://s1-u2-b3.484845845.xyz/s/34ee269c1f061eaba048c5820c2e73f2
 - https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864
@@ -334,6 +334,8 @@ v2订阅:
 - https://v2rayse.com/fs/public/20260430/free-node-share-2000.txt
 - https://v2rayse.com/fs/public/20260501/free-node-share-0800.txt
 - https://v2rayse.com/fs/public/20260501/free-node-share-2000.txt
+- https://v2rayse.com/fs/public/20260502/free-node-share-0800.txt
+- https://v2rayse.com/fs/public/20260502/free-node-share-2000.txt
 - https://vless.lrdxw.club/5dc15e15-f285-4a9d-959b-0e4fbdd77b63
 - https://www.edeyuan.com/s/bd90a406dca82c177e527d4c4cf7b2be
 - https://www.xrayvip.com/free.txt
@@ -349,20 +351,20 @@ v2订阅:
 - https://y.kukeyun.cc/s/e61300b406c65587cd77372a4e9a7a93
 - https://z.kukeyun.cc/s/eca8cd2495356f044961e82b7411aba7
 开心玩耍:
-- 可用流量:1450.62 GB                    https://ys.jiedianxielou.workers.dev:443
+- 可用流量:1364.66 GB                    https://ys.jiedianxielou.workers.dev:443
 - 可用流量:1463.0 GB                    https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864
-- 可用流量:19908930.98 GB                    https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
-- 可用流量:313.91 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-- 可用流量:42.31 GB                    https://pvsmi.no-mad-sub.one/link/pGx0WM9WgVZjILka?clash=3&amp;extend=1
-- 可用流量:49.33 GB                    https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1
+- 可用流量:1733.78 GB                    https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
+- 可用流量:186.52 GB                    https://update.glados-config.com/mihomo/684175/46bf72f/70852/glados.yaml
+- 可用流量:19908718.85 GB                    https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
+- 可用流量:2.8 GB                    https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1
 - 可用流量:961089.12 GB                    https://www.xrayvip.com/free.txt
 - 可用流量:9999999999.0 GB                    https://s.vip54.dpdns.org/nlDtrSaT
 机场订阅:
 - https://app.farnet.top/s/cc1cf441ef2b288322779b6fff70ba76?flag=meta
 - https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168
-- https://pvsmi.no-mad-sub.one/link/pGx0WM9WgVZjILka?clash=3&amp;extend=1
 - https://s.vip54.dpdns.org/nlDtrSaT
 - https://srfux4zuwq.qinyues4.cc/5ef430af5b56abc014330269fd045864
 - https://uecrt.no-mad-sub.one/link/6B5qoBrGsC2f9ZKB?clash=3&amp;extend=1
+- https://update.glados-config.com/mihomo/684175/46bf72f/70852/glados.yaml
 - https://www.xrayvip.com/free.txt
 - https://ys.jiedianxielou.workers.dev:443
